@@ -53,7 +53,6 @@ miles = kilometres * Conversion_factor
 print(f'{kilometres} km is equal t0 {miles} miles')
 
 
-#7. Celsuius t0 Fahrenheit
 
 
 
